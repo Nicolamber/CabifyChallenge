@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CabifyChallenge</string>
+    <string name="productListTitle">Elige los productos que deseas llevar</string>
+    <string name="initCheckoutText" tools:ignore="ExtraTranslation">Ver mi pedido</string>
+    <string name="initCheckoutFlowTitle">Ver mi pedido</string>
+    <string name="checkoutDiscountTitle">Precio con descuentos</string>
+    <string name="checkoutTitle">Revisa si está todo en orden.</string>
+    <string name="finalAmount">Total a pagar:</string>
+    <string name="confirmPaymentTitle">Realizar Compra</string>
+    <string name="successPayment">¡Pago Realizado con éxito!</string>
+    <string name="PaymentErrorMessage">Ocurrió un problema al intentar cargar tu pago.</string>
+</resources>
